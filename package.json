@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AndreyGorbachev97/js-2022-09/issues"
   },
-  "homepage": "https://github.com/AndreyGorbachev97/js-2022-09#readme"
+  "homepage": "https://github.com/AndreyGorbachev97/js-2022-09#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
